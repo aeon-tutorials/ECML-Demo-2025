@@ -4,10 +4,12 @@ title: Home
 nav_order: 1
 ---
 
-Under construction. Email m.b.middlehurst@soton.ac.uk if there are missing items you believe are important.
+We will be around at Tuesday 19:00 – 21:00 at Level 0: Poente to demonstrate aeon. Feel free to come by the ask questions or have a chat! Most authors will be around for the remainder of the conference and the AALTD workshop on Friday as well, so feel free to ask questions whenever. 
 
-[https://github.com/aeon-toolkit/aeon/](https://github.com/aeon-toolkit/aeon/)
+Website: [https://www.aeon-toolkit.org/](https://www.aeon-toolkit.org/)
 
-[https://www.aeon-toolkit.org/](https://www.aeon-toolkit.org/)
+Github: [https://github.com/aeon-toolkit/aeon/](https://github.com/aeon-toolkit/aeon/)
 
-[https://pypi.org/project/aeon/](https://pypi.org/project/aeon/)
+PyPi: [https://pypi.org/project/aeon/](https://pypi.org/project/aeon/)
+
+Email m.b.middlehurst@bradford.ac.uk or any of the demo authors if you have any questions.
